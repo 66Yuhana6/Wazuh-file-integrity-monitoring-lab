@@ -34,7 +34,7 @@ The lab simulates real-world scenarios where attackers modify sensitive files, a
 ## Architecture Diagram
 
 <p align="center">
-  <img src="Architecture_Diagram.png" width="900">
+  <img src="Architecture_Diagram.PNG" width="900">
 </p>
 
 ---
