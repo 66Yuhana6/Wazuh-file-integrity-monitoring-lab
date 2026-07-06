@@ -60,9 +60,10 @@ Scroll down until you find the **File Integrity Monitoring (Syscheck)** section.
 
 Verify that the following configuration is present:
 
-```xml
-<disabled>no</disabled>
-```
+<p align="center">
+  <img src="ossec.conf_file.png" width="600">
+</p>
+
 
 This means **File Integrity Monitoring (FIM)** is enabled.
 
@@ -115,6 +116,10 @@ Wazuh successfully generated alerts for:
 ### MITRE ATT&CK Technique
 
 **T1565 – Stored Data Manipulation**
+
+<p align="center">
+  <img src="mitre-attack-technique.pmg" width="900">
+</p>
 
 ### Potential Risks
 
