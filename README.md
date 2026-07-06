@@ -118,7 +118,7 @@ Wazuh successfully generated alerts for:
 **T1565 – Stored Data Manipulation**
 
 <p align="center">
-  <img src="mitre-attack-technique.pmg" width="900">
+  <img src="mitre-attack-technique.png" width="900">
 </p>
 
 ### Potential Risks
